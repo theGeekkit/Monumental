@@ -64,11 +64,11 @@ p {
 
 /* ---------- JUMBOTRON ---------- */
 
-.jumbotron {
+/* .jumbotron {
     background-color:rgba(16, 31, 60, 1);
     margin-bottom: 0;
     color:white;
-}
+} */
 
 /* ---------- NAVBAR ---------- */
 .navbar-light .navbar-brand {
@@ -77,6 +77,10 @@ p {
 
 .navbar-brand {
     margin-right:30px;
+}
+
+.mobile {
+    height: 15%;
 }
 
 .navbar-light .navbar-nav .nav-link {
